@@ -19,7 +19,7 @@ El # significa titulo. El ## Subtiluto. Y asi en adelante.
 
 3. Crear el archivo gitignore con agregando estas dos lineas en el archivo
 ```bash
-        echo -e ".venv\nenv" > gitignore    
+        echo -e ".venv\n.env" > gitignore
 ```     
 
 

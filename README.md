@@ -22,8 +22,6 @@ El # significa titulo. El ## Subtiluto. Y asi en adelante.
         echo -e ".venv\n.env" > gitignore
 ```     
 
-
-
 4. Instalamos los paquetes que necesitaremos de python
 ```bash
         python -m pip install ipykernel nbformat  pandas seaborn scikit-learn
